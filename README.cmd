@@ -1,5 +1,6 @@
-## Kimbap making using robot arm based AI Vision
+##  Kimbap making using robot arm-based AI Vision using Qt-Creator CPP  ##
 
-This works is controlling on kimbap making via robot arm.
+This work is controlling kimbap making via a robot arm.
 
-This is not a final works (scanning sidedish and operate robot arm without considering push and pull tray).
+This is not a final work (scanning sidedish and operating the robot arm without considering the push and pull tray).
+
